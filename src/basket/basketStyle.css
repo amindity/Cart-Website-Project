@@ -1,0 +1,8 @@
+.basket-container {
+  box-shadow: 0 0 .5rem red;
+  height: 100vh;
+}
+
+.basket-itemList {
+  height: 75vh;
+}
