@@ -1,0 +1,38 @@
+.cart--container {
+  height: 26rem;
+  border: 1px solid rgb(201, 201, 201);
+}
+
+.cart--img {
+  height: 65%;
+}
+
+.cart-button {
+  border: 1px solid #FF5C39;
+  background: #FF5C39;
+  color: white;
+  width: 36px;
+  height: 35px;
+  font-size: 1.3rem;
+}
+
+.cart-button:hover {
+  border: 1px solid #FF5C39;
+  color: #FF5C39;
+  background: white;
+  transition: .3s ease;
+}
+
+.text-container {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cart-tag {
+  right: -1.5rem;
+  background: #FF5C39;
+  color: white;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
